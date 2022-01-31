@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ReactAccordian/static/css/main.97ea0bf4.chunk.css",
+    "main.js": "/ReactAccordian/static/js/main.22ff92d1.chunk.js",
+    "main.js.map": "/ReactAccordian/static/js/main.22ff92d1.chunk.js.map",
+    "runtime-main.js": "/ReactAccordian/static/js/runtime-main.a951b686.js",
+    "runtime-main.js.map": "/ReactAccordian/static/js/runtime-main.a951b686.js.map",
+    "static/js/2.f9439d9f.chunk.js": "/ReactAccordian/static/js/2.f9439d9f.chunk.js",
+    "static/js/2.f9439d9f.chunk.js.map": "/ReactAccordian/static/js/2.f9439d9f.chunk.js.map",
+    "static/js/3.65034a38.chunk.js": "/ReactAccordian/static/js/3.65034a38.chunk.js",
+    "static/js/3.65034a38.chunk.js.map": "/ReactAccordian/static/js/3.65034a38.chunk.js.map",
+    "index.html": "/ReactAccordian/index.html",
+    "static/css/main.97ea0bf4.chunk.css.map": "/ReactAccordian/static/css/main.97ea0bf4.chunk.css.map",
+    "static/js/2.f9439d9f.chunk.js.LICENSE.txt": "/ReactAccordian/static/js/2.f9439d9f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a951b686.js",
+    "static/js/2.f9439d9f.chunk.js",
+    "static/css/main.97ea0bf4.chunk.css",
+    "static/js/main.22ff92d1.chunk.js"
+  ]
+}
